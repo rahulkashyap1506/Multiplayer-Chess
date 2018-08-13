@@ -6,7 +6,7 @@ This is a multiplayer chess which contains all the rules of an actual game.
 
 ## How to run
 
-You do not need anything other than a C++ compiler. Compile the program and run the .exe file cerated by it.
+You do not need anything other than a C++ compiler. Compile the program and run the .exe file created by it.
 
 ## Instructions
 
